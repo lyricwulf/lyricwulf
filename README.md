@@ -1,17 +1,14 @@
 <p align="center">
  <img width="256px" src="https://avatars.githubusercontent.com/u/5668217" align="center" alt="the dog" />
  <h2 align="center">LyricWulf</h2>
- <p align="center">Oh shit! A dog!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/lyricwulf/agpu/actions">
-      <img alt="Tests Passing" src="https://github.com/lyricwulf/agpu/workflows/CI/badge.svg" />
-    </a>
-  </p>
-
-  <p align="center">
-    
-  </p>
+ <p align="center">
+   <sub>Making my way downtown</sub>
+   <br/>
+   <sup>Walking fast</sup>
+   <br/>
+   <img alt=":3" src="https://github.com/lyricwulf/lyricwulf/workflows/Faces/badge.svg" />
+   <br/>
+   <sup>I'm homebound</sup>
 </p>
 
 <p align="center">
