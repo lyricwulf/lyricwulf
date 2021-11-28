@@ -1,5 +1,5 @@
 <p align="center">
- <img width="256px" src="https://avatars.githubusercontent.com/u/5668217" align="center" alt="the dog" />
+ <img width="256px" src="https://i.imgur.com/p1FnhxB.png" align="center" alt="the dog" />
  <h2 align="center">LyricWulf</h2>
  <p align="center">
    <sub>Making my way downtown</sub>
