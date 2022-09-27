@@ -12,6 +12,6 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=lyricwulf&show_icons=true&theme=dark" align="center" alt="LyricWulf's GitHub stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricwulf&layout=compact&theme=dark" align="center" alt="LyricWulf's Top Langs" />
+ <img src="https://github-readme-stats.vercel.app/api?username=lyricwulf&show_icons=true&theme=dark&hide_border=true" align="center" alt="LyricWulf's GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricwulf&layout=compact&theme=dark&hide_border=true" align="center" alt="LyricWulf's Top Langs" />
 </p>
