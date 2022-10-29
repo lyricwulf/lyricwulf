@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=lyricwulf&show_icons=true&theme=github_dark&border_color=21262d&border_radius=10" align="center" alt="LyricWulf's GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=lyricwulf&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&border_color=21262d&border_radius=10" align="center" alt="LyricWulf's GitHub stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricwulf&layout=compact&theme=github_dark&border_color=21262d&border_radius=10" align="center" alt="LyricWulf's Top Langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricwulf&include_all_commits=true&count_private=true&layout=compact&theme=github_dark&border_color=21262d&border_radius=10" align="center" alt="LyricWulf's Top Langs" />
 </p>
