@@ -30,9 +30,15 @@
   <img height="30rem" src="https://img.shields.io/badge/🐬-s4dp0ft-ff8200" align="center" alt="flipper" />
  </a>
  <a href="//pc.dev">
+  <img height="30rem" src="https://img.shields.io/badge/🐬-wh0y-ff8200" align="center" alt="flipper" />
+ </a>
+ <a href="//pc.dev">
   <img height="30rem" src="https://img.shields.io/badge/🌐-//pc.dev-0D47A1" align="center" alt="pc.dev" />
  </a>
  <a href="//room.party">
   <img height="30rem" src="https://img.shields.io/badge/🌐-//room.party-0D47A1" align="center" alt="room.party" />
+ </a>
+ <a href="//lyric.hu">
+  <img height="30rem" src="https://img.shields.io/badge/🌐-//lyric.hu-0D47A1" align="center" alt="lyric.hu" />
  </a>
 </div>
