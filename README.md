@@ -15,12 +15,18 @@
    <sup>I'm homebound</sup>
 </p>
 
-<p align="center">
+<!--p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=lyricwulf&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&border_color=21262d&border_radius=10" align="center" alt="LyricWulf's GitHub stats" />
-</p>
+</p-->
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyricwulf&include_all_commits=true&count_private=true&layout=compact&theme=github_dark&border_color=21262d&border_radius=10" align="center" alt="LyricWulf's Top Langs" />
+</p>
+
+<p align="center">
+ <a href="https://discord.com/users/151090117979668480">
+   <img src="https://lanyard.cnrad.dev/api/151090117979668480?bg=333333&borderRadius=10px" />
+ </a>
 </p>
 
 <hr />
